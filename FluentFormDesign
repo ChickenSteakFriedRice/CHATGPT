@@ -128,12 +128,6 @@
 <p style="line-height: 160%; text-align: left;">{inputs.phone}</p>
 <p style="line-height: 160%; text-align: left;"><strong>___________________________________</strong></p>
 <p style="line-height: 160%; text-align: left;"><strong>Username<br /></strong>{inputs.input_text_3}</p>
-<p style="line-height: 160%; text-align: left;"><strong>___________________________________</strong></p>
-<p style="line-height: 160%; text-align: left;"><strong>Upload a selfie with your ID (Photo of yourself + Holding your I.D) </strong></p>
-<p style="line-height: 160%; text-align: left;">{inputs.image-upload}</p>
-<p style="line-height: 160%; text-align: left;">___________________________________</p>
-<p style="line-height: 160%; text-align: left;"><strong>Upload ONLY your ID </strong></p>
-<p style="line-height: 160%; text-align: left;">{inputs.image-upload_1}</p>
 <p style="line-height: 160%; text-align: left;">___________________________________</p>
 <p style="line-height: 160%; text-align: left;"><strong>Last but not least, How would you like to be notified once your account has been activated? * </strong></p>
 <p style="line-height: 160%; text-align: left;">{inputs.input_radio}</p>
